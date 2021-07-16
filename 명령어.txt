@@ -1,0 +1,13 @@
+strong=글씨 진하게
+h1= 숫자가 높아 질 수록 글씨 크기가 작아짐, 제목을 뜯하는 명령어(1~6까지 있음)
+img src="사진이름"
+width =그림 높이
+li= 카테고리 나누기
+ul= 부모값 숫자 수동기입
+ol= 부모값 숫자 자동기입
+table= 표
+	tr=표칸
+	td=표 내용
+title= 홈페이지 제목
+meta charset="utf-8" = 유티에프8로 웹페이지를 읽어라
+<a href="링크 기입" target="_blank" (새창 오픈) title="html5 speicification" (링크 설명 툴팁 표현) </a>
